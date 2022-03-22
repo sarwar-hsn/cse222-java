@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="citymanagement" project="versionOne" file="/versionOne/src/citymanagement" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="47" width="120" x="208" y="-40"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <component id="2" language="java" name="src" project="versionOne" file="/versionOne/src" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="38" width="115" x="368" y="-40"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </component>  
+  <class id="3" language="java" name="infrastructure.Building" project="versionOne" 
+    file="/versionOne/src/infrastructure/Building.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="331" width="228" x="970" y="882"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="4" language="java" name="infrastructure.BuildingType" project="versionOne" 
+    file="/versionOne/src/infrastructure/BuildingType.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="151" width="145" x="315" y="1253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="5" language="java" name="infrastructure.House" project="versionOne" 
+    file="/versionOne/src/infrastructure/House.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="169" width="204" x="500" y="1253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="infrastructure.Office" project="versionOne" 
+    file="/versionOne/src/infrastructure/Office.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="186" x="744" y="1253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="infrastructure.Skyline" project="versionOne" 
+    file="/versionOne/src/infrastructure/Skyline.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="349" width="239" x="710" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="infrastructure.Market" project="versionOne" 
+    file="/versionOne/src/infrastructure/Market.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="169" width="223" x="970" y="1253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="9" language="java" name="infrastructure" project="versionOne" file="/versionOne/src/infrastructure" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="47" width="103" x="523" y="-40"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="10" language="java" name="infrastructure.Street" project="versionOne" 
+    file="/versionOne/src/infrastructure/Street.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="493" width="219" x="991" y="-40"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="citymanagement.Menu" project="versionOne" 
+    file="/versionOne/src/citymanagement/Menu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="142" x="666" y="-40"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="customhelper.Point" project="versionOne" 
+    file="/versionOne/src/customhelper/Point.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="102" x="710" y="882"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="13" language="java" name="infrastructure.Side" project="versionOne" 
+    file="/versionOne/src/infrastructure/Side.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="120" x="1233" y="1253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="14" language="java" name="infrastructure.PlayGround" project="versionOne" 
+    file="/versionOne/src/infrastructure/PlayGround.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="139" x="1393" y="1253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="15" language="java" name="customhelper" project="versionOne" file="/versionOne/src/customhelper" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="47" width="103" x="848" y="-40"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <association id="17">    
+    <bendpoint x="979" y="493"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="18" name="rightSide"/>      
+      <multiplicity id="19" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="20">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <association id="21">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="22" name="skyline"/>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="25" name="buildings"/>      
+      <multiplicity id="26" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <association id="28">    
+    <bendpoint x="1000" y="493"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="29" name="leftSide"/>      
+      <multiplicity id="30" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="31">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="32" name="side"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="35" name="pointsArray"/>      
+      <multiplicity id="36" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="38" name="type"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
